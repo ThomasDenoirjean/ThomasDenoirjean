@@ -2,7 +2,7 @@
 - 👀 I’m interested in devopping web apps around thematic I enjoy (science and sport)
 - 🌱 I’m currently learning Vue3 and Django
 - 💞️ I’m looking for an 'alternance' in front-end web devlopement for 2025
-- 📫 You can reach via my public e-mail
+- 📫 You can reach me here or on Linkedin : https://www.linkedin.com/in/thomas-denoirjean-018a60bb/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: former PhD in Aphidology
 
