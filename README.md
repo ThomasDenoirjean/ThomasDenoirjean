@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThomasDenoirjean
-- 👀 I’m interested in devopping web apps around thematic I enjoy (science and sport)
-- 🌱 I’m currently learning full-stack web devlopment
+- 👀 I’m interested in developping web apps around thematic I enjoy (science and sport)
+- 🌱 I’m currently learning full-stack web development
 - 💞️ I’m looking for an 'alternance' in front-end web devlopement for 2025
 - 📫 You can reach me here or on Linkedin : https://www.linkedin.com/in/thomas-denoirjean-018a60bb/
 - 😄 Pronouns: he/him/his
